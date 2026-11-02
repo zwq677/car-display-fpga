@@ -1,0 +1,4 @@
+seg0 (200cm): 0x0000 len 9642
+seg1 (120cm): 0x3000 len 9905
+seg2 (60cm):  0x6000 len 11660
+seg3 (20cm):  0x9000 len 11829

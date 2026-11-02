@@ -1,0 +1,23 @@
+# TD 工程与综合产物
+*.al
+*.prj
+*.sbit
+*.bit
+impl/
+project/
+td_project/
+*.log
+*.rpt
+__pycache__/
+*.pyc
+
+# 厂商授权与加密 IP（不入仓库）
+license/
+*.lic
+*.enc.v
+*.enc.vhd
+
+# 系统文件
+Thumbs.db
+desktop.ini
+.DS_Store
